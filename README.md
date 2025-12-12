@@ -1,7 +1,7 @@
 <h3 align="center">:smile_cat: Hello! I'm Cameron Blackwell :smile_cat:</h3>
 
 <p align="center">
-  <a href="https://keygripmusic.com/">My music Website </a> •
+  <a href="https://keygripmusic.com/">My Music Website </a> •
   <a href="www.linkedin.com/in/cameron-blackwell-401299327">LinkedIn</a>
 </p>
 
