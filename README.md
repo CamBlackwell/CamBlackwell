@@ -7,7 +7,7 @@
 
 ---
 
-I am a software engineer and developer. I love music and I love making interactive music software.
+I am a software engineer and developer. I love music and I love making fun interactive software.
 
 I am currently a 3rd year at Adelaide University and i'm always trying to get better and trying new things! 
 
